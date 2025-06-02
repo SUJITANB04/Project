@@ -1,0 +1,4 @@
+timestamp,location,disaster_type,description,sentiment,image_tags,urgency
+2025-05-30 10:01,Chennai,Flood,"Heavy flooding in Chennai, roads submerged.",Negative,"flood, road, water",High
+2025-05-30 11:15,Mumbai,Fire,Fire broke out in Mumbai industrial area.,Negative,"fire, smoke, building",High
+2025-05-30 12:20,Delhi,Earthquake,Tremors felt in Delhi with minor building damage.,Neutral,"earthquake, debris, structure",Medium
