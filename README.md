@@ -93,8 +93,6 @@ Image Tags
 
 Urgency Level
 
-Or Use
-https://project-realtimedisasterimpacttool.streamlit.app/
 
 ---
 
